@@ -185,7 +185,15 @@ body {
   align-items: center;
   height: auto;
   width: 100%;
+  padding: 5%;
   margin: 0 auto;
+  flex-wrap: wrap;
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 100%;
+  margin: 0 auto; */
 }
 
 .who-we-are-section h2 {
@@ -193,12 +201,21 @@ body {
   font-size: 30px;
   color: white;
   text-align: center;
+  /* font-family: "Arial Black", sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center; */
 }
 
 .who-we-are-section p {
+  /* font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  color: white;
+  text-align: left; */
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: white;
+  width: 90%;
   text-align: left;
 }
 
