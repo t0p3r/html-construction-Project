@@ -15,7 +15,7 @@ navLinks.forEach(link => {
 
 
 
-
+// create slider 
 
 const sliderContainer = document.querySelector(".slider-container");
 const sliderFrame = document.querySelector(".slider-frame");
