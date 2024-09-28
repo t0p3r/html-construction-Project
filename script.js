@@ -1,7 +1,7 @@
 // Select all the navigation links
 const navLinks = document.querySelectorAll(".navbar a");
 
-// Iterate over each link and add an event listener for smooth scrolling
+// Iterate over each link and add an event listener for smooth scrolling note: temporary will be edited
 navLinks.forEach(link => {
   link.addEventListener("click", e => {
     e.preventDefault();
