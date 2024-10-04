@@ -87,7 +87,7 @@ $(document).ready(function() {
     downloadLink.href = pdfUrl;
     downloadLink.download = "example-pdf.pdf";
 
-    // Trigger the download
+    // note :Trigger the download 
     downloadLink.click();
   },
   error: function(data) {
@@ -97,3 +97,4 @@ $(document).ready(function() {
 
   });
 });
+
