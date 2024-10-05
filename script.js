@@ -22,7 +22,7 @@ const sliderFrame = document.querySelector(".slider-frame");
 const sliderContent = document.querySelector(".slider-content");
 const arrowLeft = document.querySelector(".arrow-left");
 const arrowRight = document.querySelector(".arrow-right");
-const images = ["Concreate Pathway.png", "multipurpose_building.png", "Drainage_Canal.png"];
+const images = ["Concreate_Pathway.png", "multipurpose_building.png", "Drainage_Canal.png"];
 const titles = ["Concreate Pathway", "multipurpose building", "Drainage Canal"];
 const descriptions = ["For this project we aimed to create a high-quality concrete pathway solution that would provide durability and aesthetic appeal while minimizing maintenance for businesses and individuals. To achieve this, we employed advanced construction techniques and high-grade materials, ensuring a strong, long-lasting pathway. Our design was tailored to specific needs, considering factors such as foot traffic, weather conditions, and drainage, allowing us to build pathways that were not only functional but also visually pleasingThe construction process included meticulous site preparation compacting the base and using reinforced concrete to ensure strength and resistance to wear and tear. The final product was a smooth, polished surface that could withstand heavy use while requiring minimal upkeep. Additionally, we incorporated decorative elements such as unique paving patterns and borders, allowing for a customizable design based on client preferences.",
   
